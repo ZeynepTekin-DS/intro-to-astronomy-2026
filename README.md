@@ -1,5 +1,8 @@
 <img src="week1/astro.jpeg" alt="Intro to Astronomy" width="100%">
 
+# 🌌 Computational Astrophysics Portfolio (2026)
+...
+
 # 🪐 Intro to Astronomy 2026
 
 
