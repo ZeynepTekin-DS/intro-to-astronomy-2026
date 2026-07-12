@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop" alt="Computational Astrophysics Banner" width="100%">
+<img src="week1/astro.jpeg" alt="Intro to Astronomy" width="100%">
 
 # 🪐 Intro to Astronomy 2026
 
